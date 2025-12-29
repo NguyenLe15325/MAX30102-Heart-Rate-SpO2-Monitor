@@ -8,17 +8,23 @@ A comprehensive ESP32-based health monitoring system using the MAX30102 pulse ox
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [The MAX30102 Sensor](#the-max30102-sensor)
-- [How It Works](#how-it-works)
-- [The Mathematics](#the-mathematics)
-- [Hardware Requirements](#hardware-requirements)
-- [Wiring Diagram](#wiring-diagram)
-- [Software Setup](#software-setup)
-- [Understanding the Output](#understanding-the-output)
-- [Calibration Process](#calibration-process)
-- [Troubleshooting](#troubleshooting)
-- [Technical Specifications](#technical-specifications)
+- [Overview](#-overview)
+- [The MAX30102 Sensor](#-the-max30102-sensor)
+- [How It Works](#️-how-it-works)
+- [The Mathematics](#-the-mathematics)
+- [Hardware Requirements](#️-hardware-requirements)
+- [Wiring Diagram](#-wiring-diagram)
+- [Software Setup](#-software-setup)
+- [Understanding the Output](#-understanding-the-output)
+- [Calibration Process](#-calibration-process)
+- [Troubleshooting](#-troubleshooting)
+- [Technical Specifications](#-technical-specifications)
+- [Advanced Topics](#-advanced-topics)
+- [References](#-references)
+- [License](#-license)
+- [Contributing](#-contributing)
+- [Medical Disclaimer](#️-medical-disclaimer)
+- [Author](#-author)
 
 ---
 
